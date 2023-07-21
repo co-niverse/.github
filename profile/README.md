@@ -1,7 +1,7 @@
 <div align=center>
   
 # Dang Jang
-Dangjang is a diabetes habit-forming solution that supports diabetes prevention and management through challenges.
+Dangjang is a diabetes habit-forming solution that supports diabetes prevention and management.
 
 📱 [App](https://play.google.com)
 
