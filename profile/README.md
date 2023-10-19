@@ -3,7 +3,7 @@
 # Dang Jang
 Dangjang is a diabetes habit-forming solution that supports diabetes prevention and management.
 
-📱 [App](https://play.google.com)
+📱 [App](https://play.google.com/store/apps/details?id=com.dangjang.android)
 
 [![](https://badgen.net/badge/co-niverse/dangjang-backend?icon=github)](https://github.com/co-niverse/dangjang-backend)
 [![](https://badgen.net/github/last-commit/co-niverse/dangjang-backend/dev)](https://github.com/co-niverse/dangjang-backend)
